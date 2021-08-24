@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "flask attempt", "flask attempt\flask attempt.pyproj", "{EA50D7EC-6F98-431A-9D4C-A75E7F62808F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "templates", "templates", "{0C4281AB-4354-4388-A68F-A3305DA96A4A}"
+	ProjectSection(SolutionItems) = preProject
+		home.html = home.html
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA50D7EC-6F98-431A-9D4C-A75E7F62808F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA50D7EC-6F98-431A-9D4C-A75E7F62808F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC6443FF-BCF4-4870-B733-B1E9DA0F636B}
+	EndGlobalSection
+EndGlobal
