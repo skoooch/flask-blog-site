@@ -1,6 +1,10 @@
 # flask-blog-site
-Used this proj to learn a bit abt web development and database usage
+Used this project to learn a bit about web development and database usage.
 
-You can register, login and make posts
+You can register, login and make posts.
 
-currently working on making comment sections and other interactive shtuff
+Currently working on making comment sections and other interactive stuff.
+
+The run the website on your local device, download all files, open a console in flask-blog-site/flask blog/ and run 'pip install -r requirements.txt'.
+
+Then run 'run.py' in your python console, and go to http://localhost:5555/home
