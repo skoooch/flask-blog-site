@@ -48,6 +48,7 @@
     <Content Include="flask_attempt\templates\register.html" />
     <Content Include="flask_attempt\templates\create_post.html" />
     <Content Include="flask_attempt\templates\user_posts.html" />
+    <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="flask_attempt\" />
